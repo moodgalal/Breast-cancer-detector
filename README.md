@@ -33,3 +33,9 @@ jupyter notebook breast cancer.ipynb
 This will open the Jupyter Notebook software and project file in your browser.
 
 ### That was my final project at my machine learning engineer nano degree and you can find all information about this project in the report file included with the repo files.
+
+1) This project goal is to construct a model that classifies if a breast tumor is malignant (breast cancer) or benign.
+
+2) I worked on this project alone by gathering the data, cleaning it, visualize it, preprocess it, choosing the best model and then training it.
+
+3) The model f-beta score was above 96 percent and you can find all you want to know about the project in the Breast cancer report.pdf file
